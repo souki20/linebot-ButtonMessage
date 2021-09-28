@@ -1,4 +1,4 @@
 # linebot-ButtonMessage
 
-Create LINEbot
-Contents ButtonMessage
+Create LINEbot.
+Contents ButtonMessage.
